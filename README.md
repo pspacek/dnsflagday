@@ -1,6 +1,6 @@
 This is repository for the EDNS Workaround removal flag day!
 
-Announcements
+Announcements    {.testclass}
 =============
 
  * [PowerDNS](https://blog.powerdns.com/2018/03/22/removing-edns-workarounds/)
